@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lcq6yyoi9ev7f7ke?svg=true)](https://ci.appveyor.com/project/Sormat59/dz-java-3-4-selenit)
